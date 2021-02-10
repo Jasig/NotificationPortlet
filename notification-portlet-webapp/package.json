@@ -7,7 +7,7 @@
     "minify-js": "uglifyjs-folder src/main/webapp/scripts --output build/scripts --each"
   },
   "devDependencies": {
-    "clean-css-cli": "^4.3.0",
+    "clean-css-cli": "^5.0.0",
     "less": "^3.11.3",
     "uglifyjs-folder": "^2.0.0"
   }
